@@ -1,6 +1,10 @@
 Ruby 2.4 のための RuboCop
 =========
 
+<sub>
+2016/12/26 [五反田.rb#17(ruby2.4について) - connpass](https://gotanda-rb.connpass.com/event/47098/)
+</sub>
+
 
 
 ---
