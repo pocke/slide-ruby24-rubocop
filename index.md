@@ -185,7 +185,7 @@ AllCops:
 [Document](http://rubocop.readthedocs.io/en/latest/cops_performance/#performanceregexpmatch)
 
 <sub>
-未リリース(もっと言うと、未マージ…)
+未リリース(~~もっと言うと、未マージ…~~ マージされました!)
 </sub>
 
 ---
